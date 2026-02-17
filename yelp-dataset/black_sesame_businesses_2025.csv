@@ -1,0 +1,366 @@
+name,city,state,address,zip_code,latitude,longitude,rating,review_count,categories,price,business_id
+christine's,San Francisco,CA,2050 Bryant St,94110,37.761185075553,-122.410331,4.7,80,"Bakeries, Desserts",N/A,XFUHmTEEs2CVESevH0i5Ww
+Powder,San Francisco,CA,260 Divisadero St,94117,37.77160449177818,-122.43696541979584,4.4,821,"Desserts, Ice Cream & Frozen Yogurt, Shaved Snow",$$,hBs2mEpjMsbrAjd-FZC9qw
+Breadbelly,San Francisco,CA,1408 Clement St,94118,37.78275,-122.47439,4.4,753,"Bakeries, Cafes, Breakfast & Brunch",$$,w3mpnxz64nU8VwHDLz3S6g
+Kiss Of Matcha,San Francisco,CA,750 Clement St,94118,37.78296,-122.46745,4.3,556,"Coffee & Tea, Ice Cream & Frozen Yogurt, Desserts",$$,p3IruSDHEK0PPu-sodoaDA
+Stonemill Matcha,San Francisco,CA,561 Valencia St,94110,37.7639754933677,-122.42166382491266,4.2,1664,"Cafes, Coffee & Tea, Japanese",$$,LV9GJW3NCHgMRbnWo_5xgw
+OH Dessert Cafe,San Francisco,CA,1919 Irving St,94122,37.76322,-122.47851,4.1,561,"Desserts, Coffee & Tea, Bubble Tea",$$,-XlUFPOYhUq9sIGJd6873g
+Little Swan Bakery Cafe,San Francisco,CA,1249 Stockton St,94133,37.7973,-122.40881,4.3,296,"Cafes, Bakeries, Creperies",$,ABlyBY_rw6X6rqMIKaXBHA
+Maruwu Seicha,San Francisco,CA,1737 Post St,94115,37.78521075882023,-122.43030687059232,4.3,672,"Coffee & Tea, Desserts, Juice Bars & Smoothies",$$,gVmKZuMIDV-YXMOFQNkB4w
+Uji Time Dessert,San Francisco,CA,22 Peace Plz,94115,37.785234648376175,-122.4292256745111,4.0,1041,"Desserts, Ice Cream & Frozen Yogurt, Coffee & Tea",$$,-yFZPqNV3XGwMzfadm9l6A
+Tokyo Cream,San Francisco,CA,1838 Irving St,94122,37.76378,-122.47778,5.0,5,Desserts,N/A,qLUWMYSi6d6ZMK9d8_ocjQ
+U :Dessert Story,San Francisco,CA,3489 16th St,94114,37.7642642124321,-122.430517340788,4.4,3092,"Desserts, Coffee & Tea, Shaved Ice",$$,aVskw5NKrs7ibAQ54E_bZw
+Sweet Glory,San Francisco,CA,1336 9th Ave,94122,37.76339451487193,-122.4660766,4.7,282,"Desserts, Patisserie/Cake Shop, Coffee & Tea",N/A,kFtMFxC5EE9Be5pYPehkUA
+Kowloon Tong Dessert Cafe,San Francisco,CA,393 7th Ave,94118,37.7813606262207,-122.465614318848,3.5,1146,"Desserts, Cafes, Chicken Wings",$$,lwHhXgzuW8yYqILkwrhxdQ
+Buoy,San Francisco,CA,22 Franklin St,94102,37.77477,-122.42059,4.1,175,"Desserts, Coffee & Tea, Gluten-Free",N/A,1X7Z2aA0YQv8-lxxNoyIuA
+Golden Island Cafe,San Francisco,CA,1300 Noriega St,94122,37.75436,-122.47783,3.5,1088,"Desserts, Juice Bars & Smoothies, Cafes",$,RmSm5ps0zgYer9xxApBVrQ
+Matcha Cafe Maiko,San Francisco,CA,3251 20th Ave,94132,37.728106,-122.4770808,4.4,408,"Desserts, Ice Cream & Frozen Yogurt, Bubble Tea",$$,MBj0Tg6SmNJmkl7aCXtq5Q
+A Buttercup Dessert House,San Francisco,CA,1186 Valencia St,94110,37.75396,-122.421,4.3,245,Desserts,$$,P-QoMb_g80DbQK0tn6rjVg
+Golden Morsels,San Francisco,CA,,94103,37.72905257883829,-122.4770264972329,5.0,12,"Bakeries, Desserts",N/A,RaLL8A_BkX-wjVVrHeo0Yw
+Garden Creamery,San Francisco,CA,3566 20th St,94110,37.75869,-122.420435,4.7,1641,"Ice Cream & Frozen Yogurt, Food Trucks, Desserts",$$,ofFgj0sd8iDQunY00hhDVQ
+Metro Hong Kong Dessert,San Francisco,CA,928 Stockton St,94108,37.7943384021025,-122.408487623657,4.0,197,"Desserts, Hong Kong Style Cafe, Bubble Tea",$,O-LIyFcHvd1t57WGErSzzQ
+The French Spot,San Francisco,CA,1042 Larkin St,94002,37.7877,-122.4182,4.3,188,"Patisserie/Cake Shop, Bakeries, Desserts",$$,jEPHQZiGVgbXxtizy_kj3w
+Urban Ritual,San Francisco,CA,488 Fell St,94102,37.77576,-122.42585,4.4,1132,"Bubble Tea, Cafes",$,VQPtsRVNTFkFptcXDTtIyg
+Sweethoney Dessert,Colma,CA,15 Colma Blvd,94014,37.6771849,-122.4688645,3.9,1100,"Desserts, Juice Bars & Smoothies, Ice Cream & Frozen Yogurt",$$,eVmfHVTi_T5HVtwMnbDzEA
+K Minamoto,San Francisco,CA,648 Market St,94104,37.78852,-122.40282,4.4,432,"Japanese, Desserts, Chocolatiers & Shops",$$$,H6jEWhnxWlzTobANR-VNJg
+Jinshan Cafe,San Francisco,CA,781 Sacramento St,94108,37.79335032951565,-122.4058499,3.9,28,"Cafes, Coffee & Tea",N/A,GE8K_1nNlc0Za4gZZEjGZw
+Marco Polo Italian Ice Cream,San Francisco,CA,3886 Noriega St,94122,37.75318772421897,-122.5051443,4.6,1921,"Ice Cream & Frozen Yogurt, Gelato, Desserts",$$,RrIduU6-SUNCanTEVF-hIQ
+The Game Parlour,San Francisco,CA,1342 Irving St,94122,37.763991,-122.472492,4.5,481,"Desserts, Coffee & Tea, Tabletop Games",$$,9KWOjTaw5aRWOl3Uyr-VIQ
+Aqua Club Dessert & Beverage,San Bruno,CA,440 San Mateo Ave,94066,37.62256,-122.41094,4.3,1060,"Desserts, Bubble Tea, Juice Bars & Smoothies",$$,W3I4ZfyUaG2zVjBpujkfcA
+Polly Ann Ice Cream,San Francisco,CA,3138 Noriega St,94122,37.753517,-122.497736,4.2,1458,"Ice Cream & Frozen Yogurt, Desserts, Gelato",$,2kigSyi7myx0-34YATi-Xw
+Telescope Coffee,San Francisco,CA,345 6th St,94103,37.77833723839424,-122.40496301719064,4.5,232,"Bakeries, Coffee & Tea, Desserts",$$,CTYe2aZzmRavw0GMV490BQ
+Jane On Third,San Francisco,CA,151 3rd St,94103,37.785881555556,-122.400667,4.4,18,"Cafes, Desserts, Coffee & Tea",N/A,x_6eWP6F9AKfctM05i7Drw
+ZERO &,San Francisco,CA,845 Market St,94103,37.7841,-122.40614,3.9,111,"Bubble Tea, Coffee & Tea, Desserts",$$,dzGlLkAj9pc-9j8uX72vfA
+Do-Re-Mi,San Francisco,CA,3491 19th St,94110,37.75994,-122.42112,4.8,73,"Asian Fusion, Desserts",N/A,t3QmVUNrUWhz3zoLagzc-g
+Hila Gelato Caffe,San Francisco,CA,951 Valencia St,94110,37.757709895432775,-122.4210101,4.6,190,"Coffee & Tea, Desserts, Ice Cream & Frozen Yogurt",N/A,3t7_vloM6eb3PGvwj_JxFg
+Kiss of Matcha,San Francisco,CA,2127 Irving St,94122,37.76320126438284,-122.4808579,4.1,32,"Coffee & Tea, Desserts, Ice Cream & Frozen Yogurt",N/A,xnDQMxOB6rATBN-qqz493g
+Tadaima - Mission,San Francisco,CA,3515 20th St,94110,37.7584647635636,-122.41954429490852,4.2,559,"Japanese, Cafes, Coffee & Tea",$$,r_QtnR3Aty68MCPt1vh7og
+Sweet Mango Dessert & Cafe,San Francisco,CA,5217 Geary Blvd,94118,37.78024,-122.47542,3.9,258,"Desserts, Juice Bars & Smoothies, Hong Kong Style Cafe",$,Zn6UlhMoCmO0Cb_0TyvbLw
+NaYa Dessert Cafe,San Francisco,CA,5338 Geary Blvd,94121,37.78076,-122.47679,3.8,823,"Desserts, Thai, Korean",$$,durukkwUUqNmkbNr0D113A
+Bake Sum,Oakland,CA,3249 Grand Ave,94610,37.812759481772034,-122.24750552883606,4.5,382,"Desserts, Bakeries",$$,zJtun46FWqG2k6cwPEFpxw
+Uji Time Dessert ,San Francisco,CA,135 4th St,94103,37.784293,-122.403547,3.8,125,"Desserts, Ice Cream & Frozen Yogurt",N/A,6Gza21Q_TBwGAdtC5Bk8IA
+Milkbomb Ice Cream,San Francisco,CA,1717 17th St,94103,37.76474779422062,-122.40115900332351,4.7,911,"Ice Cream & Frozen Yogurt, Desserts, Donuts",$$,LFEBCjZ-M3XUFJDszYFX6A
+Sixth Course,San Francisco,CA,1544 15th St,94103,37.7668797,-122.4186656,4.5,424,"Desserts, Chocolatiers & Shops, Gelato",$$,K0r1oltM3JbM14ApsTe_yA
+Annie's T Cakes,Oakland,CA,601 William St,94612,37.80916319108168,-122.2715510856645,4.8,9,"Bakeries, Desserts",N/A,DCWhRt58kM3s6PSWMCkxhA
+Whole Cakes,San Francisco,CA,1000 16th St,94107,37.76657,-122.39703,3.7,132,"Desserts, Bakeries",N/A,9x2MFIuwTMJFGMiZZen3Gw
+Loquat,San Francisco,CA,198 Gough St,94102,37.77495018035684,-122.42237149073912,4.4,302,"Bakeries, Cafes, Desserts",$$,R1mHXWoeMwPBPkTbmGYLhw
+Spruce Cafe,South San Francisco,CA,230 S Spruce Ave,94080,37.64757,-122.42035,4.0,668,"Cafes, Patisserie/Cake Shop, Sandwiches",$,G1oAfI-mVeXZttCD1s9SoQ
+Yu's Cafe,San Francisco,CA,57 Walter U Lum Pl,94108,37.79508,-122.40594,3.9,98,"Desserts, Juice Bars & Smoothies, Bubble Tea",$$,SGBxF2mPPIcoQZYzB9rUhg
+Bi-Rite Creamery,San Francisco,CA,3692 18th St,94110,37.761591,-122.425717,4.5,10274,"Ice Cream & Frozen Yogurt, Desserts",$$,wGl_DyNxSv8KUtYgiuLhmA
+The Baking Endeavor,Daly City,CA,,94015,37.68071747,-122.47888184,5.0,20,"Desserts, Custom Cakes, Macarons",N/A,821291y9madKx97sGCjYsg
+Trestle,San Francisco,CA,531 Jackson St,94133,37.79619567013229,-122.40454157055215,4.4,1328,"New American, Desserts",$$$,jcFf2ZnJYL0nWCdIpqiA-g
+Anko,Los Angeles,CA,400 S Western Ave,90020,34.0669778875893,-118.30876664418,4.3,1115,"Desserts, Coffee & Tea, Juice Bars & Smoothies",$$,2diQcj7sFRBbcXwJ5zmnvQ
+Jiu Ji Dessert,Alhambra,CA,1261 E Valley Blvd,91801,34.08015256468508,-118.1105076,4.3,134,"Desserts, Cantonese",N/A,lQB6qchm3VX25FVOKnN-CA
+Rny Coffee Studio,Los Angeles,CA,3829 W 6th St,90020,34.063825279726075,-118.3063151,4.5,467,"Cafes, Coffee & Tea, Sandwiches",$,o1Dvgk04BEgcgeXjRZ4OgQ
+Domi,Los Angeles,CA,672 S Santa Fe Ave,90020,34.0358081,-118.2299336,4.6,54,"Bakeries, Desserts, Patisserie/Cake Shop",N/A,xWPomi26lQog3AGXs3bk0Q
+Coin De Rue Bakery & Cafe,Los Angeles,CA,1110 S Western Ave,90006,34.050422,-118.3086145,4.0,274,"Bakeries, Cafes, Custom Cakes",$,Q1M5NCS2eLnOfhOVhicywA
+DAMO,Los Angeles,CA,3510 W 8th St,90005,34.057296673775106,-118.3071684,4.5,1106,"Coffee & Tea, Desserts",$$,Mia81gcJcKvamwpm-3uYkg
+Cafe Upper,Los Angeles,CA,300 S Hobart Blvd,90020,34.06886586469914,-118.30508953839102,4.2,440,"Cafes, Coffee & Tea, Desserts",$,2vuoW-UozmDJmu2cYQbokA
+Oakobing,Los Angeles,CA,3300 W 6th St,90020,34.0634651,-118.294319,4.4,2427,"Shaved Ice, Desserts, Ice Cream & Frozen Yogurt",$$,4yS760klyp_nyQwDcwWQIg
+Somemore LA,Los Angeles,CA,2717 W Olympic Blvd,90006,34.053081388913505,-118.2924596000128,4.4,461,"Desserts, Coffee & Tea, Cafes",$,RM7bFAKup8tBn8DMPhmHFg
+Fujiwara Tofu Cafe,El Monte,CA,9216 Flair Dr,91731,34.0716,-118.06762,3.9,300,"Bubble Tea, Themed Cafes",$,qoUMkDPdli-QGLCIMhlmcw
+Somisomi,Los Angeles,CA,621 S Western Ave,90005,34.062718,-118.309564,4.3,2014,"Desserts, Ice Cream & Frozen Yogurt, Korean",$,Jrzd-QEY6X-t6CBAKkAXug
+Sul & Beans,Los Angeles,CA,621 S Western Ave,90005,34.062917615687425,-118.3100077447056,4.3,1962,"Desserts, Coffee & Tea, Shaved Ice",$$,jv3v-cMrEAyeM2Py0apPtQ
+O Beem,Los Angeles,CA,928 S Western Ave,90006,34.0551603,-118.30844918626312,4.2,112,"Cafes, Desserts, Coffee & Tea",N/A,QzmECKyONc4uHMT-dP_Ylw
+Pâtisserie Chantilly,Lomita,CA,2383 Lomita Blvd,90717,33.80481,-118.324853,4.3,839,"Bakeries, Desserts",$$,pI_4fHBYYWz6_xqyuGmMWQ
+Spoons Patisserie,Sawtelle Los Angeles,CA,,90025,34.04590607,-118.45082092,4.8,9,"Desserts, Personal Chefs, Caterers",N/A,acKpq2inTYg5V6nKZ7WKZA
+Bumsan Organic Milk Bar,Los Angeles,CA,369 E 2nd St,90012,34.04831474633641,-118.240002043896,4.2,73,"Ice Cream & Frozen Yogurt, Organic Stores, Desserts",N/A,HDaeZgmFisCgraehFtqE2Q
+Kanomwaan Thai Gelato and Dessert Cafe,Los Angeles,CA,5261 Hollywood Blvd,90027,34.10207268850962,-118.30550453324612,4.7,351,"Gelato, Desserts, Coffee & Tea",$$,d8JGyicWRvk98_AQCIheMA
+Meccha Matcha,Artesia,CA,11816 Artesia Blvd,90701,33.8729150340322,-118.081505,4.5,858,"Desserts, Coffee & Tea, Ice Cream & Frozen Yogurt",$$,tcbuojXRuOExZfB9ic6fjg
+Cha Redefine,Los Angeles,CA,3465 W 6th St,90020,34.063876035225,-118.29741198650817,4.4,75,"Bubble Tea, Coffee & Tea, Cafes",N/A,FKCnmsDB4EmIVePkgE7uDA
+Liu’s Cafe,Los Angeles,CA,3915 1/2 W 6th St,90020,34.06365,-118.30844,4.4,657,"Cafes, Bakeries, Taiwanese",$$,8lzAX-Uc4o7dwaXnulAFIQ
+Bakers Bench,Los Angeles,CA,1021 Alpine St,90012,34.06555073778093,-118.24683383102747,4.7,86,"Bakeries, Vegan, Desserts",N/A,6kD9qOYObVV5oG-Ae3cP-A
+Bhan Kanom Thai,Los Angeles,CA,5271 Hollywood Blvd,90027,34.1020133338462,-118.305958511115,4.3,942,"Desserts, Thai, Ice Cream & Frozen Yogurt",$,oF8VzkDLlmf-PfieLYENNg
+BLTea,Los Angeles,CA,16927 Vanowen St,91406,34.1946362737511,-118.501999784486,4.4,441,"Bubble Tea, Coffee & Tea, Desserts",$$,nvVTFBmez3W8sg1ESOgH4A
+Le Kream,Los Angeles,CA,928 S Western Ave,90006,34.05514762871418,-118.30843376310676,4.3,89,"Coffee & Tea, Desserts, Juice Bars & Smoothies",$$,pQNRYCf0yzUKp9U1P6W_2g
+Bricks & Scones,Los Angeles,CA,403 N Larchmont Blvd,90004,34.07768,-118.32399,4.0,1474,"Coffee & Tea, Bakeries, Cafes",$$,GgEAdWleZlfYu9lLud-wRA
+Wanderlust Creamery - Atwater Village,Los Angeles,CA,3134 Glendale Blvd,90039,34.1166106,-118.2619737,4.4,1336,"Desserts, Ice Cream & Frozen Yogurt",$$,iO0omKwI1mLl9q0tzTA03A
+Men & Beasts,Los Angeles,CA,2100 W Sunset Blvd,90026,34.07881323790753,-118.26839920359906,4.7,76,"Chinese, Tea Rooms, Desserts",$$$,eaRtD1upzzAEAm9tcQs0rQ
+Noon Korean Bingsoo House,Gardena,CA,15435 S Western Ave,90249,33.89102,-118.3098141,4.5,318,"Coffee & Tea, Shaved Ice, Desserts",$$,DUa6xIogSMNW07aq90NC0Q
+Magpies Softserve,Los Angeles,CA,2660 Griffith Park Blvd,90039,34.1068633394147,-118.271928675245,4.4,850,"Ice Cream & Frozen Yogurt, Desserts",$,QyA3-z9RCgvOPxa1d5htSw
+Midori Matcha Cafe,Los Angeles,CA,123 Astronaut Ellison Onizuka St,90012,34.0499578055129,-118.24206790276727,4.2,1205,"Coffee & Tea, Ice Cream & Frozen Yogurt, Desserts",$$,-YFu1DC3_4Xb5lqQFPbQwA
+Bacio di Latte,Los Angeles,CA,2008 Sawtelle Blvd,90025,34.040867042358286,-118.4433269,4.6,68,"Ice Cream & Frozen Yogurt, Coffee & Tea, Desserts",N/A,FI6KNq6YyZ-fa7bx_vpNXg
+Somisomi,Los Angeles,CA,11311 Mississippi Ave,90025,34.039461,-118.442904,4.4,525,"Ice Cream & Frozen Yogurt, Desserts, Korean",$,qesWxrISov4c--5grr42_Q
+CoCo's Kanom Thai,Los Angeles,CA,5155 Hollywood Blvd,90027,34.101979,-118.302513,4.4,71,"Desserts, Coffee & Tea, Bubble Tea",N/A,04QXzNGLf2vWtkZ4OtD-ZQ
+Fugetsu-Do,Los Angeles,CA,315 E 1st St,90012,34.05028954041613,-118.2403415,4.6,1574,"Candy Stores, Bakeries, Desserts",$$,Hg3YYJFGFW7eLWzWZXdYTA
+SYNT Coffee,Los Angeles,CA,537 S Western Ave,90020,34.06421,-118.30936,4.4,26,"Coffee & Tea, Desserts",N/A,MJVyZXG8hGt-J04pCVHOEA
+Spot Coffee & More,Los Angeles,CA,3324 W 6th St,90020,34.06345,-118.29487,4.0,414,"Coffee & Tea, Desserts, Patisserie/Cake Shop",$$,flP3pon2UYv3Xqv3ig_uBg
+Kansha Creamery,Torrance,CA,18515 S Western Ave,90248,33.86282050695839,-118.30937443971436,4.7,1054,"Ice Cream & Frozen Yogurt, Desserts",$$,ja4wDd29HO3YsHohN3bwsg
+Pillow Talk Cafe Pasadena,Pasadena,CA,526 S Lake Ave,91101,34.1368,-118.13196,4.2,577,"Coffee & Tea, Sandwiches, Desserts",$$,29580RgN6Vva1xS6PNhO1g
+ChocoVivo,Los Angeles,CA,12469 W Washington Blvd,90066,33.997060286441595,-118.4304366,4.4,399,"Chocolatiers & Shops, Desserts, Coffee & Tea",$$,hkQMuj8hGqtTFAn1BGSrVw
+Flour Fresh Cream Donut,Los Angeles,CA,833 S Western Ave,90005,34.057289738210116,-118.3092634890533,4.8,188,"Donuts, Desserts, Sandwiches",N/A,eFSyURx8qNHWpXoV_zCLbg
+Lilou,Los Angeles,CA,4847 Oakwood Ave,90004,34.077581252691196,-118.3129053,4.6,44,"Patisserie/Cake Shop, Desserts, Bakeries",N/A,cz664Q7wZZwlq6uBPoE3Qw
+brown bag cookies,Los Angeles,CA,3450 Wilshire Blvd,90010,34.06110973853806,-118.2996044268034,4.6,197,"Desserts, Bakeries, Patisserie/Cake Shop",$$,h69PYcjzhSpfod3hGfA1Kg
+Kim Hung Bakery,Los Angeles,CA,959 N Broadway,90012,34.0656439,-118.2368197,4.7,50,"Bakeries, Desserts",$,XcDCwdyuUDTqIvXcGrx5SQ
+Nuo Mochi,Monterey Park,CA,141 N Atlantic Blvd,91754,34.06434547200167,-118.13448720362668,3.6,145,Desserts,N/A,TdWokdhojMz_uU6FgXmRxw
+Camelia,Los Angeles,CA,1850 Industrial St,90021,34.035587336321015,-118.2325904,3.9,236,"French, Bars, Desserts",$$$,hyeTC1chQP2HKmtlvJ_XeQ
+Flouring Cake Shop,Los Angeles,CA,932 N Hill St,90012,34.06518678225637,-118.2382168,4.7,98,"Patisserie/Cake Shop, Desserts, Custom Cakes",N/A,PLBB4dtHpDrf0P5pYnWMFQ
+Re Bakesic,Alhambra,CA,188 S Monterey St,91801,34.09449016962039,-118.12359474539456,4.2,192,"Bakeries, Coffee & Tea, Desserts",$$,YLnS-GEaMtFPZsViGkpyig
+Bodega Park,Los Angeles,CA,2852 W Sunset Blvd,90026,34.08251,-118.27324,4.6,389,"Sandwiches, New American, Cafes",$$,l6eEaR8LMTPjSG4aTpxUxg
+Okrumong,Torrance,CA,2814 Sepulveda Blvd,90505,33.8227238477939,-118.33543907851,4.0,476,"Desserts, Korean, Coffee & Tea",$$,CwTFtVUOp4rLze7suKflgw
+Cafe Dulce,Los Angeles,CA,134 Japanese Village Plz,90012,34.04884814277756,-118.2404543036268,4.2,2658,"Coffee & Tea, Bakeries, Cafes",$$,8rVWoDNS6JO-5uXOD3VyXw
+Bunny & Bro Coffee,New York,NY,20 W 43rd St,10036,40.75454098009935,-73.98154734207651,4.4,63,"Desserts, Coffee & Tea, Bakeries",N/A,I5pk5lZe9hQfVJdyvMNiRA
+Hanamizuki Cafe,New York,NY,143 W 29th St,10001,40.74756805565555,-73.99161579999999,4.2,601,"Cafes, Coffee & Tea, Japanese",$$,S-619sO8qSxQcis0DBHvNw
+GoGoJang Cafe,New York,NY,150 W 55th St,10019,40.76368950291504,-73.98021432661147,4.3,53,"Desserts, Coffee & Tea, Cafes",N/A,YP1buO7OcAmcupV-8SW5Eg
+Lady Wong,New York,NY,332 E 9th St,10003,40.72850883077059,-73.98615170270205,4.6,362,"Bakeries, Desserts",$$,5jykT4A_mz1lgWk6btnZbw
+Bibble & Sip,New York,NY,253 W 51st St,10019,40.76282,-73.98518,4.4,6057,"Coffee & Tea, Bakeries, Desserts",$$,WHRHK3S1mQc3PmhwsGRvbw
+Ando Patisserie,New York,NY,214 East 10th St,10003,40.729337442569005,-73.98596309999999,4.4,287,"Desserts, Patisserie/Cake Shop",N/A,WtDTHppOGbmRc06gBEHrGg
+Bird & Branch Coffee Roasters,New York,NY,359 W 45th St,10036,40.76032615927315,-73.9908807732996,4.5,532,"Coffee & Tea, Desserts",$$,IkyRp47Jpbk_AQ35qlr-eg
+Grace Street,New York,NY,17 W 32nd St,10001,40.7478576793883,-73.9865590631962,4.2,3728,"Coffee & Tea, Desserts, Shaved Ice",$$,MKYhiSeXjahxh9O4Gqnimw
+Patisserie Tomoko,Brooklyn,NY,568 Union Ave,11211,40.7176114,-73.9519192,4.4,472,"Desserts, Bakeries, Coffee & Tea",$$,qXuUBEaib4caLC6WCPhBjA
+Spongies Cafe,New York,NY,121 Baxter St,10013,40.71801388996446,-73.99887707101564,4.7,354,"Cafes, Bakeries, Chinese",$,UNHlRe3gcQJh6tf3rSoOrA
+Cha-An,New York,NY,230 E 9th St,10003,40.72947,-73.98813,4.0,2074,"Japanese, Tea Rooms, Desserts",$$,5QgBCrAbXbM1ORiqZDrBPQ
+Seed + Mill,New York,NY,409 W 15th St,10011,40.74207,-74.00565,4.5,351,"Desserts, Ice Cream & Frozen Yogurt, Gluten-Free",$,6xCZHAr7yj_vWwRJalAEOg
+Bibble And Sip,New York,NY,64 Bayard St,10013,40.71557373276981,-73.99789872996871,5.0,8,"Desserts, Bakeries, Macarons",N/A,zGyrykz01MtJWicTAWX74g
+Nana’s Green Tea,New York,NY,1250 Broadway,10001,40.747756388584975,-73.9878664711644,4.2,373,"Coffee & Tea, Desserts, Ice Cream & Frozen Yogurt",$$,NguYFBBaM-n6WJT_Z2xvTA
+Salswee,New York,NY,180 5th Ave,10010,40.74129912549566,-73.99009129508936,4.3,373,"Bakeries, Desserts",N/A,54bzuZYGJfUGadZjp7ukqA
+Hokkaido Baked Cheese Tart,New York,NY,315 5th Ave,10016,40.74699,-73.9854,4.1,148,"Bakeries, Desserts, Japanese",$$,m6tgV_tG4vbCQgi26SDeqA
+Let's Bounce Powered By Keki,New York,NY,79 Mott St,10013,40.71656,-73.99822,4.2,804,"Bakeries, Desserts",$$,pHfsXEPHkGXkmGo-PbwB6w
+Taiyaki NYC,New York,NY,119 Baxter St,10013,40.71789,-73.9988,4.3,3455,"Desserts, Japanese, Ice Cream & Frozen Yogurt",$,vk7W3_sQwr7eZbRFsXv6rw
+The Little One,New York,NY,150 E Broadway,10002,40.714158,-73.990942,4.2,353,"Desserts, Ice Cream & Frozen Yogurt, Shaved Ice",$$,NkOpM1SBI50qviqE6LCKRg
+Chiu Hong Bakery,New York,NY,161 Mott St,10013,40.71952308133847,-73.99641435371088,4.4,53,"Bakeries, Chinese, Desserts",$,LPfT3XaYsrIvC2pE9oiZyQ
+Sweet Cake,Flushing,NY,137-06 Northern Blvd,11354,40.76285109510374,-73.83063796101115,4.4,135,"Desserts, Bubble Tea",$$,u70GH3uSJ6Rx57QbFfvezA
+Dialogue Coffee & Flowers,New York,NY,188 Allen St,10002,40.721882,-73.988564,4.4,99,"Coffee & Tea, Desserts, Florists",N/A,tFQj9oNNGPQQKz_LX2_QZw
+Bake Culture,New York,NY,48 Bowery,10013,40.7157,-73.99663,3.8,232,"Bakeries, Desserts, Custom Cakes",$$,ovNuIGcC0LF4lyJP2Sawyw
+Pinklady Cheese Tart,New York,NY,11 Mott St,10013,40.7141357508495,-73.9988519623876,4.4,368,"Desserts, Bakeries, Japanese",$$,oHEKc3Og4v13ReftMolKZg
+Mochi And Cream,Queens,NY,28-53 Steinway St,11103,40.764110292755994,-73.91452969505525,5.0,8,"Desserts, Gelato, Bubble Tea",N/A,G6aq4LSmzJm2BQbod-o9Hw
+Cafe  2BY2,New York,NY,84 E 10th St,10003,40.730857,-73.98993,4.0,146,"Desserts, Cafes, Coffee & Tea",N/A,bE5LYONhOyLcVHgYYZU7bg
+Spot Dessert Bar,New York,NY,5 Saint Marks Pl,10003,40.729516,-73.98927,4.3,330,Desserts,$$,XyGpSrE6aUO45xctVCHfvg
+Seoul Sweets,New York,NY,308 5th Ave,10001,40.746939,-73.986035,3.9,224,"Desserts, Coffee & Tea",N/A,Jq9z1x8v6f2DD9Eb5wL3cA
+Davelle,New York,NY,102 Suffolk St,10002,40.71852,-73.98605,4.2,550,"Japanese, Breakfast & Brunch, Cafes",$$,PwrYnl3j3YCGzILX_5UHpw
+Butter Dose,New York,NY,236 E 13th St,10003,40.731923914952766,-73.9862697,4.2,142,"Bakeries, Cafes",$,8VhsQ3bXEkQlCrPyg2I1AQ
+Mango Mango Dessert,New York,NY,23 St Marks Pl,10003,40.7292248,-73.9886260386011,4.0,690,"Desserts, Creperies, Waffles",$$,gTkXGwTH9irJ9EFTMB5PQQ
+Lazy Sundaes,Brooklyn,NY,170 Front St,11201,40.70224,-73.98571,4.4,54,"Bubble Tea, Shaved Ice, Desserts",N/A,JxVN5Uf_TCZ3L5F1j_MKpw
+Senbei NYC,New York,NY,26 Elizabeth St,10013,40.7161549,-73.9970348,3.7,12,"Japanese, Themed Cafes, Desserts",N/A,Zt8H6feEYN7ODQOmbVLMSw
+Koneko,New York,NY,26 Clinton St,10002,40.72044,-73.98412,4.2,381,"Breakfast & Brunch, Desserts, Themed Cafes",$$,zi_TJRxi0WzADbbI6Jcz3A
+Rawsome Treats,New York,NY,158 Orchard St,10002,40.7208686954984,-73.9886739484795,4.6,140,"Desserts, Live/Raw Food, Gluten-Free",$$,hdoVPO0EQNxOnKnLNx3DBg
+Tous Les Jours,Brooklyn,NY,107 York St,11201,40.7016048,-73.9863542,4.3,13,"Bakeries, Coffee & Tea, Desserts",N/A,5wpxiXrdB9TmKurJt3NPpg
+Flower and Dessert 次第花开,Flushing,NY,133-40 37th Ave,11354,40.76048,-73.83345,3.6,152,"Desserts, Chinese",$$,h-ULtMDeM-4psdx6UlL5Ng
+Salswee,New York,NY,1407 Broadway,10018,40.75285893312702,-73.98764141102755,4.5,19,"Bakeries, Desserts, Patisserie/Cake Shop",N/A,OrAkkR180x6O43Q21rmQFQ
+MIYOMACCHI,New York,NY,91 E 3rd St,10003,40.724831,-73.98777,4.4,5,"Desserts, Pop-up Shops",N/A,pdUoc2_3Dp09POJcW6Ttww
+Somedays Bakery,Bay Terrace,NY,212-67 26th Ave,11360,40.77894,-73.776912,4.5,50,"Bakeries, Coffee & Tea, Desserts",$$,c_Rnaw34E8_16SKA1x5bPw
+Chinatown Ice Cream Factory,New York,NY,65 Bayard St,10013,40.715452,-73.99818,4.2,3264,"Ice Cream & Frozen Yogurt, Desserts",$$,o6q3jm-dU5A6nV3r2lBg9A
+Mango Mango Dessert,New York,NY,41 W 14th St,10011,40.737072920666826,-73.99554196753328,4.2,6,"Desserts, Juice Bars & Smoothies, Ice Cream & Frozen Yogurt",N/A,T3mIIYkKQeDitPfiDw6meA
+Glace,New York,NY,30 Rockefeller Plz,10112,40.759164,-73.979655,4.2,46,"Desserts, Food Trucks, Ice Cream & Frozen Yogurt",N/A,r5GWJo-KjN4dgg4tCSHlww
+Shakalaka Bakery,Flushing,NY,136-76 Roosevelt Ave,11354,40.760185014014645,-73.82723852992058,3.9,103,"Bakeries, Desserts",N/A,Z55f20B0sKR4VZp1uZoGFA
+Kora,Sunnyside,NY,45-12 Greenpoint Ave,11104,40.741883,-73.919443,4.6,268,"Filipino, Donuts, Desserts",$$,uKxYiV2xoO1AUGUAakAfDQ
+Butler,Brooklyn,NY,95 S 5th St,11249,40.7117670177852,-73.9646924963509,4.4,173,"Bakeries, Cafes, Breakfast & Brunch",$$,SWRz34fmNEDPcrngJMMo7Q
+Dominique Ansel Bakery,New York,NY,189 Spring St,10012,40.7252509,-74.0028734,4.0,5752,"Bakeries, Desserts",$$,ga6sRtE0l85iftw_5-W84Q
+Audrey Bakery & cafe,New York,NY,174 Canal St,10013,40.7164044280335,-73.9977217932343,4.1,28,"Desserts, Bakeries, Patisserie/Cake Shop",N/A,FIGUS1UJ4uRcOwFsrByT9w
+Lady Moo Moo Ice Cream,Brooklyn,NY,365 Chauncey St,11233,40.6815518229652,-73.9200956001878,4.8,143,"Ice Cream & Frozen Yogurt, Desserts",$,tc9OKGv_GutKsDO0BiZ3yA
+Tous Les Jours,New York,NY,31 West 32nd St,10001,40.7479385,-73.9870117,3.6,921,"Desserts, Bakeries, Coffee & Tea",$$,Yx6xDJBEmC8oTAmIEzDRag
+Baiten,Seattle,WA,500 E Pine St,98122,47.61544977173206,-122.32530438538733,4.5,216,"Desserts, Ice Cream & Frozen Yogurt, Bakeries",N/A,QYj_f7F9kzFuY4SZuy16Cw
+Nana’s Green Tea,Seattle,WA,1007 Stewart St,98101,47.61605215221306,-122.33292148130435,4.3,1715,"Japanese, Desserts, Cafes",$$,X0DkXqaRwCvq1pAqVwDXbQ
+Gaga Tea,Seattle,WA,523 Maynard Ave S,98104,47.597744866867735,-122.32524366185363,4.7,216,"Bubble Tea, Desserts",N/A,tGPJ3NlY4-BbORJy-hqU1w
+Matcha Man Ice Cream & Taiyaki,Seattle,WA,6014 12th Ave S,98108,47.54879776100193,-122.31720058466507,4.2,258,"Ice Cream & Frozen Yogurt, Desserts",N/A,_1aOSDaOk3a2Gn5yMXGEuA
+Hot Cakes - Capitol Hill,Seattle,WA,1650 E Olive Way,98102,47.61991478795747,-122.3238374752414,3.9,1238,"Desserts, Coffee & Tea, Bakeries",$$$,BZasEOxdp4dl8poS0Fko5g
+Cold Plate,Seattle,WA,5240 University Way NE,98105,47.667789,-122.312724,4.3,158,"Ice Cream & Frozen Yogurt, Desserts, Coffee & Tea",N/A,R3awQq0O4cWrYB5BXHVs9Q
+Kakigori Dessert Cafe,Tukwila,WA,16864 Southcenter Pkwy,98188,47.45257,-122.26101,3.7,123,"Desserts, Ice Cream & Frozen Yogurt, Shaved Snow",$$,JHvwPxqZFB5bSHxozBMxRg
+K Cafe Dabang,Lynnwood,WA,3333 184th St SW,98037,47.833282,-122.27929,4.5,123,"Coffee & Tea, Desserts, Waffles",$$,2aDEtcWpq6u6-ZJ_ysQW1w
+Cafe O'Dessert,Seattle,WA,4727 University Way NE,98105,47.66389,-122.31339,3.8,179,"Desserts, Custom Cakes, Cafes",$,qA-7qg47NIeKPDCKd-WeaQ
+Nana's Green Tea,Bellevue,WA,16 103rd Ave NE,98004,47.61060226831348,-122.20266915857792,4.4,338,"Desserts, Japanese, Cafes",$$,ypJGB0vIczuEJ-3bs0vV2w
+Our Place Dessert Cafe,Edmonds,WA,23830 Hwy 99,98026,47.78298026134132,-122.34426125558292,4.6,161,"Cafes, Desserts, Shaved Ice",N/A,YvuVi68Emdwx_OvEUwpFyw
+CocoPandan,Bellevue,WA,,98005,47.61479538059737,-122.1685651660322,5.0,2,"Desserts, Indonesian, Asian Fusion",N/A,eHMZVBMr0quc6bvpgn_05g
+Fresh Flours,Seattle,WA,432 8th Ave N,98109,47.62305,-122.34087,4.1,282,"Bakeries, Cafes, Coffee & Tea",$,hPBevWANIs-TgwW7snUI2A
+J.sweets,Lynnwood,WA,3000 184th St SW,98037,47.830005675460576,-122.27443160290596,4.6,30,"Desserts, Japanese, Candy Stores",N/A,ntM6lEdlASevw9N6MVZh_g
+CREAM Soft Serve Bar,Kent,WA,12954 SE Kent-Kangley Rd,98030,47.3587966,-122.168464,4.5,113,"Desserts, Ice Cream & Frozen Yogurt",$$,GXeCV1imfvLBVWCgKQn8Mg
+Hiroki,Seattle,WA,2224 N 56th St,98103,47.669028881738,-122.332219038688,4.4,432,"Bakeries, Coffee & Tea, Desserts",$,LVeCqpEwn40X8Xv0AxI7jg
+Snowy Village,Seattle,WA,5264 University Way NE,98105,47.668372,-122.313004,4.4,524,"Shaved Ice, Desserts, Cafes",$$,5wMLtg9x-V2ljTnVJwb03g
+T55 Patisserie,Bothell,WA,18223 Bothell Way NE,98011,47.76059517766468,-122.20786392349572,4.3,187,"Desserts, Bakeries",$$,ap9mOCjfCjUVrFeQx85C5g
+Kemi Dessert Bar,Seattle,WA,1828 12th Ave,98122,47.6184686,-122.31667676504144,4.6,28,Desserts,N/A,Xkn6nqAt7Zn40lldSOD7-Q
+One Bite Cafe,Seattle,WA,1026 NE 65th St,98115,47.67609,-122.31622,4.3,105,"Desserts, Bubble Tea",N/A,dYxjmXwFb0bMXP3zVt_fBw
+Taz Matcha,Seattle,WA,410 Stewart St,98101,47.61264392437988,-122.3385581,4.5,221,"Cafes, Cocktail Bars",N/A,x3-iRtCuhQu1tDiewHRfUQ
+Hui Lau Shan,Redmond,WA,15120 NE 24th St,98052,47.632065,-122.138315,3.9,359,"Desserts, Juice Bars & Smoothies",$$,c-0b9TC-Z1W7Z9TE7uceXA
+Cafe Aloe,Bellevue,WA,10961 NE 2nd Pl,98004,47.612241,-122.194627,4.1,369,"Cafes, Coffee & Tea, Breakfast & Brunch",$$,Dy3QzvFSpqMsMKQsMiNVUQ
+MOTO Pizza - Belltown,Seattle,WA,3131 Western Ave,98121,47.618256,-122.357403,4.4,115,"Pizza, Desserts, Ice Cream & Frozen Yogurt",$$,g17lDx9e-2yaqTcCyNPHng
+Neighborhood Cafe,Tukwila,WA,17165 Southcenter Pkwy,98108,47.44960649709705,-122.26334,3.9,223,"Bubble Tea, Coffee & Tea, Cafes",$$,Z9eR8N3DFf9gc-YfGJzlyw
+Coche Valley Dessert Cafe,Seattle,WA,1424 E Pine St,98122,47.615435,-122.313018,4.4,139,"Desserts, Bubble Tea, Creperies",N/A,Rpt26x5AhFpry-6J6hFfPA
+Lady M Cake Boutique,Bellevue,WA,219 Bellevue Sq,98004,47.61618805793696,-122.20446928650804,3.8,177,"Desserts, Custom Cakes, Bakeries",N/A,N14DAEhJ9wbsAsWukeABbQ
+Offline Coffee,Seattle,WA,711 Bellevue Ave E,98102,47.62548279142534,-122.3268564,4.8,8,"Coffee & Tea, Cafes, Venues & Event Spaces",N/A,nHLe_fnIaHeDO19D4JVPcw
+Story Coffee & Tea,Bellevue,WA,11011 NE 9th St,98004,47.617857,-122.192406,4.4,107,"Coffee & Tea, Desserts",N/A,5T6_GTEiDOERNOeVDfe4VQ
+Meet Fresh,Bellevue,WA,15552 Lake Hills Blvd,98007,47.60363,-122.13226,3.5,394,"Desserts, Bubble Tea, Shaved Ice",$$,G9eADRZysfU5Po9IFhkZEQ
+Sugar & Spice,Seattle,WA,,98101,47.6114730834961,-122.334014892578,4.5,2,Desserts,N/A,0VlZ0C0r1JRrB4Fw_R11jg
+Cake Meet Me Patisserie,Bellevue,WA,1120 112th Ave NE,98004,47.620663744614,-122.18971,4.2,72,"Bakeries, Coffee & Tea, Desserts",N/A,VUSFLdt8eJ9M-5eUXtJxeQ
+Timeless Tea,Seattle,WA,1000 NE 50th St,98105,47.66533,-122.3172011,4.2,283,"Desserts, Bubble Tea",N/A,7mDNz9pLMvjXP6XOt2gODA
+Purple Café and Wine Bar,Seattle,WA,1225 4th Ave,98101,47.60796189916494,-122.33508233673626,4.0,3049,"New American, Wine Bars, Desserts",$$$,Mh5o8RtQNNUxhoJe6BxVkg
+Junbi Matcha,Seattle,WA,722 E Pike St,98122,47.61426885688957,-122.3224041,4.2,31,"Cafes, Coffee & Tea, Ice Cream & Frozen Yogurt",N/A,9AFQ5_ktfxzEkbwyPocH9Q
+Mitten Sweets & Coffee,Seattle,WA,509 13th Ave,98122,47.606415,-122.315724,4.7,83,"Desserts, Patisserie/Cake Shop",$$,Hp87c6gufByV1gkPOsZIoQ
+Atulea,Seattle,WA,7006 Greenwood Ave N,98103,47.6799,-122.35495,4.4,34,"Coffee & Tea, Desserts",N/A,DSgXCEgR0yeLn5NbcYEqkw
+FogRose Atelier,Kirkland,WA,15 Lake St,98033,47.675956943668645,-122.20714964391414,4.0,211,"Desserts, Cocktail Bars, Tea Rooms",N/A,bw74RLjeNo8dR6UjUMrvHg
+Snowy Village,Bellevue,WA,1075 Bellevue Way NE,98004,47.619699706912165,-122.20271478516148,4.0,168,"Shaved Ice, Desserts, Cafes",$$,oNyBymvWS7v1MsxADQJ-Ag
+Hui Lau Shan,Bellevue,WA,298 106th Ave NE,98004,47.6127425,-122.1986127,4.0,175,"Desserts, Cantonese",$$,1IogACFNk-YynqnlGAkGzw
+Yezi Coconut Dessert,Bellevue,WA,10617 NE 2nd St,98004,47.61181,-122.1983,4.3,146,Desserts,$$,e2Bmnll23TUwgRe8QM6Xpg
+Cloud City Coffee,Seattle,WA,8801 Roosevelt Way NE,98115,47.6923141479492,-122.317939758301,4.2,397,"Coffee & Tea, Cafes",$,Ie47mt2HGXodEi5XdsYlFg
+Heuk Hwa Dang,Lynnwood,WA,17425 Hwy 99,98037,47.840524,-122.297593,4.4,29,"Bubble Tea, Desserts, Ice Cream & Frozen Yogurt",N/A,ZvD8nT12oq32fgg95Neu9w
+Get Baked Seattle Cookie,Seattle,WA,1501 Western Ave,98101,47.608369,-122.341597,4.7,61,"Desserts, Coffee & Tea, Juice Bars & Smoothies",$$,0hEku-fToPCeoWBL_zHsRA
+The Moo Bar,Seattle,WA,2124 Westlake Ave,98121,47.61738226476446,-122.33805702326796,3.2,647,"Desserts, Bubble Tea, Coffee & Tea",$$,wEsKFcjc1WlY_TFnQkKfvA
+Ohh Macarons,Bothell,WA,10035 Main St,98011,47.759893,-122.205753,4.4,34,"Desserts, Macarons",N/A,5GAEPV3G_vOLIwfY0deH1g
+One Bite Cafe,Woodinville,WA,14148 NE Woodinville Duvall Rd,98072,47.75497400000217,-122.15074492945764,4.2,60,"Cafes, Bakeries",N/A,LP9J4ZXWzjKKMDHKGfieig
+One Bite Cafe,Lake Forest Park,WA,17171 Bothell Way NE,98155,47.7540097,-122.2803679,4.0,21,"Cafes, Desserts, Bubble Tea",N/A,l0yI-OXngZAfLZByvrpByw
+Bake Shop,Seattle,WA,221 1st Ave W,98119,47.6204176,-122.35849663654098,4.3,114,"Cafes, Bakeries, Coffee & Tea",$$,Jo1X7BR62uLctchXvMhupQ
+Hello Robin,Seattle,WA,522 19th Ave E,98112,47.6238087792208,-122.307136621784,4.5,864,"Bakeries, Desserts",$$,XTrf7pn2nbcNLgsYQtx4vg
+Miss Oz Ice Cream & Dessert,Portland,OR,1105 NW Johnson St,97209,45.52877,-122.68253,4.3,576,"Ice Cream & Frozen Yogurt, Coffee & Tea, Desserts",$$,D3ND25B6h3xOJVuohZxMtg
+Phin Caphe & Boba,Portland,OR,11906 SE Division St,97266,45.50363,-122.54053,4.4,137,"Coffee & Tea, Desserts, Juice Bars & Smoothies",$$,yt6-m6PUm-J15lgsukXeHg
+Yunomi Matcha,Portland,OR,304 NE 28th Ave,97232,45.52522,-122.6370542,4.7,62,Cafes,N/A,7nfcaXQwWQ88cfBCqVf_Lg
+Snowy Village,Portland,OR,3912 N Vancouver,97227,45.55098,-122.66769,4.0,212,"Desserts, Shaved Ice",$$,IGO1zBHEic5tKrKDSkm_iw
+Meet Fresh,Tigard ,OR,11945 SW Pacific Hwy,97223,45.4341752,-122.7659189,4.0,115,"Desserts, Shaved Ice, Waffles",$$,50cctpAU60h5JCtKTA5Mgg
+Premium Matcha Cafe Maiko,Portland,OR,3416 SE Cesar Estrada Chavez Blvd,97202,45.49801,-122.62133,4.6,348,"Desserts, Ice Cream & Frozen Yogurt, Shaved Ice",$$,BYKjzEUv6RksSVm5yqGPDA
+IC Bingsu,Hillsboro,OR,1249 NW 185th Ave,97006,45.52873924522794,-122.8688504,4.3,59,"Desserts, Shaved Ice, Coffee & Tea",$$,tSKa40zvYEEnUWzkfoA7ew
+Just Tea,Portland,OR,1045 SE 122nd Ave,97233,45.5155,-122.53805,4.6,92,"Bubble Tea, Waffles, Desserts",$,7ggyH5_T8wXVFqC-YRE1Qg
+Bobadochi,Portland,OR,9585 SW Washington Square Rd,97223,45.450176,-122.780813,4.7,10,"Desserts, Bubble Tea, Donuts",N/A,Ik66OEth5VAqsTnrhVWkpQ
+French Tastic Patisseries,Portland,OR,5441 S Macadam Ave,97239,45.484084,-122.675069,3.5,2,"Patisserie/Cake Shop, Bakeries, Desserts",N/A,XAAbNp9cssUpvPXDX2_oMw
+Phin Caphe & Boba,Beaverton,OR,3905 SW 117th Ave,97005,45.49088,-122.79837,4.3,110,"Coffee & Tea, Bubble Tea, Desserts",$$,L-gJsNkeHMak0dGwpfskSA
+Sweet Coco G -  Macadam,Portland,OR,6141 SW Macadam Ave,97239,45.47915,-122.67314,4.7,45,"Coffee & Tea, Bakeries, Desserts",N/A,7kbcpLvmhB7SFKaiHqmCgQ
+Libre,Portland,OR,2601 SE Clinton St,97202,45.503714,-122.639481,4.8,45,"Cocktail Bars, Desserts, Seafood",N/A,ZNRq0VTUPp7zD2NcVzyyjw
+Sinister Coffee And Creamery,Portland,OR,301 SW Morrison St,97204,45.5184617,-122.6758396,4.7,6,"Desserts, Coffee Roasteries",N/A,8TVnsNeq8KqujlanK3rTvA
+Soro Soro Coffee & Dessert,Portland,OR,2250 E Burnside St,97214,45.52266,-122.64245,4.6,442,"Desserts, Coffee & Tea, Asian Fusion",$$,Ur7o-5FviIC9YmJqsGKR6A
+DOJA Tea Lounge,Tualatin,OR,18674 SW Boones Ferry Rd,97062,45.38394,-122.76106,4.4,141,"Desserts, Tea Rooms, Asian Fusion",$$$,pWzj56kD4BswuJevLmUJnQ
+Lauretta Jean's,Portland,OR,3402 SE Division St,97202,45.504617,-122.629441,4.3,792,"Bakeries, Desserts, Breakfast & Brunch",$$,737kbUmDNRSPkw-77PFcNg
+Cornet Custard,Portland,OR,4529 SE Division St,97206,45.50551,-122.61547,4.3,64,"Ice Cream & Frozen Yogurt, Desserts",N/A,RermHlF01Hny3Y7oovOhoQ
+Salt & Straw,Portland,OR,838 NW 23rd Ave,97210,45.52897,-122.69844,4.5,4308,"Ice Cream & Frozen Yogurt, Desserts",$$,o_L9Ss4boqq6ZEF9xeSH6Q
+Just Bob.,Portland,OR,2403 NE Alberta St,97211,45.55925,-122.64074,4.4,209,"Cafes, Coffee & Tea, Breakfast & Brunch",$,qHUy0Xr9MsytU3FAnh8Rwg
+Tous Les Jours,Hillsboro,OR,6221 NE Cornell Rd,97124,45.53424,-122.91654,3.9,104,"Coffee & Tea, Bakeries, Desserts",$$,rEV8ERZU4kbw23K68al7_A
+Tous Les Jours,Happy Valley,OR,12000 SE 82nd Ave,97086,45.43681511101968,-122.57284750308308,4.1,84,"Coffee & Tea, Bakeries, Desserts",N/A,GUlEOzsVZc3aKnIYspL7Xw
+JinJu Patisserie,Portland,OR,4063 N Williams Ave,97227,45.5528625,-122.6668649,4.8,369,"Bakeries, Chocolatiers & Shops, Desserts",$$,xDOjijlodmlwjCcFOX-Ysg
+ResQ Bakery,Beaverton,OR,,97007,45.45843,-122.87349,5.0,4,"Desserts, Donuts",N/A,E3IQuUg_VCQWHn7OdT_CKw
+Soen,Portland,OR,923 SW Oak St,97205,45.522814584636095,-122.6804985,5.0,14,"Japanese, Desserts",N/A,MwFhUOgeZ2rl07Dl4fK4aQ
+The Cove,Vancouver,WA,5731 SE Columbia Way,98661,45.612693309110576,-122.61044723258316,4.3,482,"Seafood, Desserts, Cocktail Bars",$$$,gJNMHmSGxjDwW1g8L67ogw
+Nossa Familia Coffee,Portland,OR,1633 SE 3rd Ave,97214,45.5112733,-122.6628254,4.7,59,"Cafes, Coffee & Tea",$,TTcMHJ723b7LWerfaCnQvw
+Cafe Rowan,Portland,OR,4437 SE Cesar E Chavez Blvd,97202,45.49051,-122.62302,4.5,340,"Breakfast & Brunch, Cafes",$$,PdSAZ8Z9yGBTZr2_E13cGg
+Blossoming Lotus Cafe,Portland,OR,2122 NW Quimby St,97210,45.533192,-122.695669,4.6,25,"Vegan, Cafes, Juice Bars & Smoothies",N/A,5DtEojcoHcUS6i_Ua7M2_Q
+The Cheesecake Factory,Happy Valley,OR,12000 SE 82nd Ave,97086,45.4341677,-122.5722181,3.1,548,"American, Desserts",$$,UNexRv4AjmtV8c6djLJHYg
+Salt & Straw,Portland,OR,2035 NE Alberta St,97211,45.559182,-122.644079,4.6,1948,"Ice Cream & Frozen Yogurt, Desserts",$$,IyLLref8p5xTcuO7SpHf-g
+Tous Les Jours,Beaverton,OR,11735 SW Beaverton Hillsdale Hwy,97005,45.48844783,-122.797693,4.2,338,"Bakeries, Coffee & Tea, Desserts",$$,c62PkHP6zFupqm3_nkIPBA
+Nossa Familia Coffee,Portland,OR,2007 SE Division St,97214,45.504940633102,-122.645439528415,4.3,55,"Coffee & Tea, Cafes",$,MuJdGtsirQ-ECGbl82RBGw
+Beard Papa's,Beaverton,OR,10500 SW Beaverton Hillsdale Hwy,97005,45.4858055114746,-122.78524017334,3.6,54,"Desserts, Coffee & Tea, Bakeries",$,ttCW6zQfHuFPVp5Tptci-A
+Treat,Vancouver,WA,210 W Evergreen Blvd,98660,45.628915843247405,-122.6733505,4.4,232,"Desserts, Bakeries",$$,ZzOb6PSRi1SFj--gkC3q6w
+Camellia Vegan Patisserie,Portland,OR,Ne Wygant St & Ne 7th Ave,97211,45.557309,-122.65855,0.0,0,"Vegan, Desserts, Patisserie/Cake Shop",N/A,0wu9-sKoMfUn5d3v6p3iMw
+Maurice,Portland,OR,921 SW Oak St,97205,45.5226352,-122.6805024,4.0,249,"French, Desserts, Scandinavian",$$,kton841tyPEJlVTHjtUF2w
+Salt & Straw,Portland,OR,3345 SE Division St,97202,45.5049914,-122.630574650262,4.5,1597,"Ice Cream & Frozen Yogurt, Desserts",$$,4Hc4QRv8PBlTXi9jm2s5cw
+Dodo Dumpling,Portland,OR,1902 NW 24th Ave,97210,45.536141,-122.700618,4.3,45,"Chinese, Coffee & Tea, Cafes",N/A,42s36p2N956hBa589S61Eg
+Cafe Yumm! - NE 7th & Holladay,Portland,OR,1010 NE 7th Ave,97232,45.5302241,-122.6584273,3.3,121,"Salad, Cafes, Wraps",$,sCXhg_n4pvKcA8qDZalNZw
+Cafe Yumm! - PDX Airport,Portland,OR,7000 NE Airport Way,97218,45.589137,-122.593471,3.6,213,"Salad, Cafes, Wraps",$$,qrkjT7YIUh1cWsMmRdg8zg
+LJ's Cafe,Milwaukie,OR,6400 SE Lake Rd,97222,45.427962996989834,-122.59777037361984,4.5,35,"Cafes, Breakfast & Brunch, Sandwiches",N/A,Od-5osY5P9VHSsAbyko8Rg
+Cafe Yumm! - Happy Valley,Clackamas,OR,11965 SE Sunnyside Rd,97015,45.431225,-122.540014,3.2,112,"Wraps, Salad, Cafes",$,pCxqw9bmhtXl89V5pBhEwg
+Cafe Yumm! - Cascade Park Plaza,Vancouver,WA,305 SE Chkalov Dr,98683,45.6187999,-122.554549,3.1,100,"Wraps, Cafes, Salad",$$,Xl868Y-ythj66hLD9rtxcw
+Cafe Yumm! - Meridian Square,Lake Oswego,OR,17773 SW Lower Boones Ferry Rd,97035,45.3971983,-122.7428003,2.7,120,"Wraps, Salad, Cafes",$,sPLfzK6UQBADUxW0Vacnsw
+Cafe Yumm! - Millikan Pointe,Beaverton,OR,14601 SW Millikan Way,97003,45.495018,-122.827069,3.6,354,"Salad, Wraps, Cafes",$$,0tZ9L9zFl8QHxLCGmb3Z_A
+Cafe Yumm! - Mill Plain Crossing,Vancouver,WA,500 SE 192nd Ave,98683,45.61809992406124,-122.4765031,3.2,89,"Wraps, Salad, Cafes",$$,ivWOOUs-KkvHSqVYbeP18g
+Matcha En,Chicago,IL,2167 S China Pl,60616,41.85359,-87.635,4.2,280,"Desserts, Japanese",$$,mVbn3yRL6otcBXpag5PzBw
+Mango Mango Dessert,Chicago,IL,2161 S China Pl,60616,41.8536997,-87.63477012673711,4.4,424,Desserts,$$,XDW498bCHtL1CqJiGKlkGA
+Black Dog Gelato,Chicago,IL,859 N Damen Ave,60622,41.897614,-87.676732,4.2,678,"Ice Cream & Frozen Yogurt, Gelato, Desserts",$$,5ujBRZMoOinzbPtxbuucJw
+Ms Ku's Flowers and Desserts,Chicago,IL,2308 S Archer Ave,60616,41.85096,-87.63913,4.8,22,"Desserts, Florists",N/A,KYqJoYzCjzHcW5zPR0QbGQ
+Nia Drink & Dessert,Chicago,IL,610 W 31st St,60616,41.83823,-87.64193,4.9,28,"Custom Cakes, Desserts, Bubble Tea",N/A,7p694scqt2zRDWnCJthYmA
+Fat Peach Bakery,Chicago,IL,2907 S Archer Ave,60608,41.84146186327236,-87.65777021491407,4.3,62,"Bakeries, Coffee & Tea, Desserts",N/A,fgmovijN8RUFjDUbvCWL5g
+Swadesi Cafe,Chicago,IL,328 S Jefferson St,60661,41.87715808340137,-87.642767170551,4.3,165,"Bakeries, Cafes",$$,RUyPuW-lgJhRSrULN6LBkw
+Taipei Cafe,Chicago,IL,820 W Belmont Ave,60657,41.94009645373361,-87.65017061984084,4.5,86,"Bubble Tea, Desserts, Taiwanese",N/A,7PGDSCKgRvnnBDplbCZd5A
+The Wormhole Coffee,Chicago,IL,1462 N Milwaukee Ave,60622,41.908418,-87.674603,4.4,1385,"Coffee & Tea, Cafes",$,jImBrAd65LeLWne9lfK2tg
+Eli's Ark,Chicago,IL,1843 W North Ave,60622,41.91026,-87.67437,4.5,331,"Gelato, Patisserie/Cake Shop, Desserts",$$,wmj_Xz6jR3-G02Fb950x2Q
+Levain Bakery,Chicago,IL,849 W Armitage Ave,60614,41.91801526727328,-87.65038229999999,4.5,6,Desserts,N/A,QfUrfdYnpr6s3GB9x4JSLA
+Luckycat,Chicago,IL,2806 N Clark St,60657,41.93308969747881,-87.6453619,4.4,29,"Coffee & Tea, Cafes",N/A,QoqojSRzfrJ2RM6waBdaoQ
+J Sweets,Arlington Heights,IL,100 E Algonquin Rd,60005,42.04463,-87.98055,4.5,33,Desserts,N/A,-qStiTaPoGBk3JF0fPiwPQ
+Bird Bird Bakery & Cafe,Chicago,IL,2951 W Diversey Ave,60647,41.93197000345802,-87.70207677036524,4.7,3,"Bakeries, Cafes",N/A,bKdA4Qoa_Va0Ah24KOF_1w
+Macaron La Glen,Glenview,IL,,60026,42.09223822665692,-87.83744786137801,4.7,3,"Macarons, Desserts, Bakeries",N/A,LfBp-zKbgHZnav6Vf0P-Sw
+Ambar,Chicago,IL,700 N Clark St,60654,41.89497473200752,-87.63158,4.4,111,"Desserts, Seafood",$$$,2xsqMP0sQbRBXjp9O8ahRQ
+ParTea,Chicago,IL,2252 S Canal St,60616,41.85117232208973,-87.63861503452063,4.3,35,"Bubble Tea, Desserts, Ice Cream & Frozen Yogurt",N/A,nv9b7K6R5599tQYv0b9YEg
+Taiyaki Chicago,Chicago,IL,2618 N Clark St,60614,41.930027045132576,-87.64381467392734,4.0,207,"Desserts, Bubble Tea, Ice Cream & Frozen Yogurt",$,i3ODNsExVbjkiHRW9X6dcg
+Milli by Metric,Chicago,IL,3110 N Kedzie Ave,60618,41.938005800842234,-87.70796053111553,4.4,35,"Cafes, Coffee & Tea, Bakeries",N/A,YNH2HNEnbq1P2-ErSNe0XQ
+Lula Cafe,Chicago,IL,2537 N Kedzie Blvd,60647,41.927668036295,-87.706845233929,4.3,2426,"New American, Breakfast & Brunch, Desserts",$$,4i1Ny2zIE1VJSU9gLMkHqg
+Mango House Cafe,Arlington Heights,IL,43 W Golf Rd,60005,42.05025,-87.9832601,5.0,15,"Desserts, Coffee & Tea, Juice Bars & Smoothies",N/A,uTl3407twrwO8BnoAqp7lw
+Matcha En,Chicago,IL,931 W Belmont Ave,60657,41.939855065023615,-87.65288226105834,4.7,22,"Desserts, Cafes, Ice Cream & Frozen Yogurt",N/A,ftWSPVQPAB9QC7-YK0FmsA
+Tous Les Jours,Chicago,IL,1726 W Division St,60622,41.90356,-87.67102,4.3,240,"Coffee & Tea, Bakeries, Desserts",$$,ivvBtsmnU_2kNTcXVKS2dw
+OMi,Chicago,IL,3135 N Broadway,60657,41.938477,-87.644004,4.1,91,"Desserts, Coffee & Tea, Ice Cream & Frozen Yogurt",$$,EXuqfE5NyMi8MlJjRF1qqg
+Alice & Friends at The Glen,Glenview,IL,2071 Tower Dr,60026,42.091146020883144,-87.82500170000002,4.6,82,"Vegan, Desserts, Asian Fusion",$$,sdLOFLJBLOWDikZ_xmwfDA
+Paris Baguette,Chicago,IL,711 W Jackson Blvd,60661,41.87781454943873,-87.64487862721488,4.3,26,"Coffee & Tea, Bakeries, Desserts",N/A,9nUBnfsYlRCmU0CRLKp4Bw
+Sweet Bean,Chicago,IL,1152 S Wabash Ave,60605,41.8678,-87.62618,4.2,247,"Cafes, Bakeries, Coffee & Tea",$,h7nc0Cb-Z7UE8bfgOZ2oFg
+Postcard,Chicago,IL,170 N Morgan St,60607,41.88493,-87.65227,4.1,14,Cafes,N/A,gh3UyoSvjpzw94cGGI15UA
+Frontera Grill,Chicago,IL,445 N Clark St,60654,41.8905699,-87.63079,3.9,2740,"Mexican, Desserts",$$,AqgG-1aD6JYj9D6OmBWO3w
+Al Bawadi Grill,Niles,IL,8501 Dempster St,60714,42.03967,-87.83861,3.9,450,"Middle Eastern, Desserts, Mediterranean",$$,XjsD4_qRh-yYletDhOEf-Q
+Vanille Patisserie,Chicago,IL,131 N Clinton St,60661,41.88392,-87.640522,4.1,224,"Desserts, Macarons, Patisserie/Cake Shop",$$,MNjHFaj1vYuI4qxBN5-CTw
+Alice & Friends,Oak Park,IL,104 N Marion St,60301,41.887575,-87.802186,4.4,8,"Vegan, Desserts, Asian Fusion",N/A,swu4DX23Xc509cIQlbVrhA
+Oromo Cafe,Chicago,IL,4703 N Lincoln Ave,60625,41.9667937,-87.6871507,4.3,319,"Coffee & Tea, Cafes, Gluten-Free",$,eID8U-VLJrbF2zzlxeyldQ
+Noble Fat,Chicago,IL,2221 N Lincoln Ave,60614,41.92257526447077,-87.64441130000002,4.1,42,Cafes,N/A,E7UxugPT2TtpmWGFYB69zA
+Lockwood Restaurant & Bar,Chicago,IL,17 E Monroe St,60603,41.8802934550758,-87.6270614456838,3.1,367,"New American, Bars, Desserts",$$,1y1xDvXbO-bKZFgmkMALVA
+The Cheesecake Factory,Chicago,IL,875 North Michigan Ave,60611,41.89861870088764,-87.62375159999137,3.0,1481,"Desserts, American",$$,EoVwnUgEUXI49jwxLRMamw
+Alliance Bakery & Cafe,Chicago,IL,1736 W Division St,60622,41.90355,-87.67149,3.8,1056,"Bakeries, Cafes, Custom Cakes",$$,xjZ9eqYrzMrl2v6_1Kv6hA
+RPM Steak,Chicago,IL,66 W Kinzie St,60654,41.88940266225163,-87.63061391510885,4.2,1866,"Steakhouses, Bars, Desserts",$$$$,JMWtBuuNmTXqoBs06Wt_7w
+Rice & Noodles,Chicago,IL,2018 S Blue Island Ave,60608,41.85466024722357,-87.664192113667,4.4,96,"Desserts, Noodles, Soup",N/A,KyGDQ3Sk3mjtL9IDkKAVTw
+Lost Larson Bakery,Chicago,IL,5318 N Clark St,60640,41.9786909,-87.6685133,4.2,407,"Coffee & Tea, Bakeries, Cafes",$,mYawzCeb1DiEjgR5x6rKxw
+Good Ambler,Chicago,IL,216 N Peoria Ave,60607,41.886212,-87.650178,4.3,327,"Cafes, Bakeries, Coffee & Tea",$$,FoG_ATh8iMaluJK8PDsF4A
+Mango House Cafe,Des Plaines,IL,562 E Algonquin Rd,60016,42.03098150576869,-87.9099459,5.0,36,Themed Cafes,N/A,GrmAOxxSuYXpjgNxbjgFyQ
+Pure Tea,Chicago,IL,2105 S Jefferson St,60616,41.85432,-87.6416,4.3,72,"Bubble Tea, Desserts, Coffee & Tea",$$,qSRqUPqoQmHXHP5X2gNAyQ
+Tous Les Jours,Glenview,IL,1685 Milwaukee Ave,60025,42.0863025,-87.86896151859857,4.1,376,"Bakeries, Coffee & Tea, Desserts",$$,CeJLGk3pMinVCRYw85dxqQ
+Tous Les Jours,Schaumburg,IL,20 E Golf Rd,60173,42.05146,-88.07771,4.1,378,"Coffee & Tea, Bakeries, Desserts",$$,mlM3Jmhz02WzFrxwI6xsEQ
+Kinzie Chophouse,Chicago,IL,400 N Wells St,60654,41.8893789,-87.634279,3.9,984,"Steakhouses, New American, Desserts",$$$$,rnjz2KNgsQ2YaC_kjeuuAQ
+Dessert Cafe 365,Schaumburg,IL,233 W Golf Rd,60195,42.04784163394734,-88.085234,3.6,120,"Cafes, Bakeries, Desserts",$,1CmTajzmWv_BozC0P0RLlA
+First Sip Cafe,Chicago,IL,1057 W Argyle St,60640,41.97303,-87.65733,4.4,199,"Coffee & Tea, Cafes, Sandwiches",$,BCGezgDw9erzNM29CCJSpw
+TE'AMO Boba Bar,Schaumburg,IL,601 N Martingale Rd,60173,42.04007037336247,-88.03375987608652,4.2,233,"Bubble Tea, Desserts",$$,DtDOgNnGrjEH2jq0L8VFyg
+Pierrot Gourmet,Chicago,IL,108 E Superior St,60611,41.896033,-87.625076,4.1,732,"Coffee & Tea, French, Desserts",$$,ltaJDoWtmmcBN2EHbch3oA
+Kessho,Austin,TX,603 W Live Oak St,78704,30.24441,-97.75808,4.7,37,"Gelato, Desserts",N/A,O8gTIJ4gKin5kTbRLBOY0A
+Uncle Tetsu,Austin,TX,6929 Airport Blvd,78752,30.336683909673457,-97.71664458056593,4.4,123,Desserts,$$$,l01HLUtX0_D-w0pfIxi2AA
+Omg Squee,Austin,TX,4607 Bolm Rd,78702,30.26115,-97.69784,4.4,415,"Desserts, Ice Cream & Frozen Yogurt, Gluten-Free",$,v_FQkBIJUamTwg7uP704bg
+Saltery ATX,Austin,TX,,78757,30.351577,-97.732522,5.0,7,"Bakeries, Pop-up Shops, Desserts",N/A,4x6MAH2wYtIfI3IVOk5ntA
+SnowBall RiceBall,Austin,TX,6929 Airport Blvd,78752,30.33685336911802,-97.71662177301704,3.9,294,Desserts,$$,M-i5g-P9GKv4JvmBRPaiwQ
+Azure,Austin,TX,8222 N Lamar Blvd,78753,30.352052062206603,-97.7094672,4.9,58,"Desserts, Comfort Food, Pan Asian",N/A,EdNRLQPNGh6bjq4zbi8TCw
+Wicked Snow,Austin,TX,11301 Lakeline Blvd 8,78717,30.47783272936629,-97.79655430656052,4.5,38,"Desserts, Coffee & Tea, Shaved Snow",N/A,kf6bHe1gQo0Omp3p_cEIDA
+Cafe Du Bliss,Austin,TX,10000 Research Blvd,78759,30.39112185843669,-97.74874739087676,4.7,35,"Cafes, Desserts",N/A,r1NLUfIG5JvfiFOsE7vMmA
+Kessho,Austin,TX,6726 Burnet Rd,78757,30.343770204331115,-97.73887581553852,4.9,18,"Chocolatiers & Shops, Desserts, Food Trucks",N/A,ufaPuArDYhKpOnB92F3Mqg
+Hui Lau Shan,Austin,TX,7020 Easy Wind Dr,78752,30.3384951,-97.7187753,4.3,141,"Desserts, Juice Bars & Smoothies, Hong Kong Style Cafe",$,Y5PkmIxOALtfbO61PAmznw
+First Light Books,Austin,TX,4300 Speedway,78751,30.30697910958961,-97.72976896106483,4.5,88,"Bookstores, Cafes",$$,_FbncYKSmAIGd5beBltWxA
+Swedish Hill,Austin,TX,1128 West 6th St,78703,30.27283218996001,-97.75682300467518,3.5,376,"Cafes, Bakeries, Delis",$$,99knW4T5Au5LjvvnbR5tZg
+Austin Tea Xchange Cafe,Austin,TX,13011 Shops Pkwy,78738,30.30699,-97.94573,4.7,383,"Cafes, Coffee & Tea, Breakfast & Brunch",$$,xFxHEzJqs8B17aO4o6md_w
+Frozen Rolls Creamery,Austin,TX,704 N Lamar Blvd,78703,30.27329,-97.75347,3.8,196,"Desserts, Ice Cream & Frozen Yogurt",$$,kDVXs5GPj_B87glsStyiIw
+Tous Les Jours,Austin,TX,6808 N Lamar Blvd,78752,30.335953649574375,-97.72056562188166,4.2,411,"Bakeries, Coffee & Tea, Desserts",$$,MFr9Wsasx6l1ENKJYMQSbw
+La Patisserie,Austin,TX,7301 Burnet Rd,78757,30.348694072842765,-97.73497970129098,3.6,159,"Desserts, Bakeries",$$,GhvKR2xjPES-N9yHQqql-A
+Bar Peached,Austin,TX,1315 W 6th St,78703,30.27354,-97.76001,4.3,619,"Cocktail Bars, Asian Fusion, Desserts",$$,LoSheJfJ57sNedZj0GWO5A
+My Boulangerie,Round Rock,TX,,78664,30.49836159,-97.65394592,0.0,0,"Bakeries, Pop-up Shops, Desserts",N/A,iK51StVCYGxsdI-ZFtU-sA
+Mizu Matcha,Boston,MA,217 Newbury St,02116,42.350141,-71.081358,4.6,25,"Gelato, Desserts, Ice Cream & Frozen Yogurt",N/A,fZy2VDXSrMRlVwZaF72_2A
+Kyoyo Haus,Cambridge,MA,36 John F Kennedy St,02138,42.372741426687575,-71.11963506206804,4.1,15,"Ice Cream & Frozen Yogurt, Desserts, Japanese",N/A,m6B618K1M2H8BzBB_AR_yA
+CT Sweet Kingdom,Boston,MA,15 Beach St,02171,42.3514576,-71.0622171,3.5,122,Desserts,$,lIaNz1coA8BZxLVRaaGfLg
+Fuful Bakery,Boston,MA,274 Franklin St,02110,42.35699,-71.05357,4.4,14,"Bakeries, Patisserie/Cake Shop, Desserts",N/A,heb4cuV9RJkI3NL-HhiUHA
+Pixlcat Butter Mochi,Boston,MA,227 Dartmouth St,02116,42.349752,-71.076872,4.0,3,"Coffee & Tea, Farmers Market, Desserts",N/A,sWRYU5Gx0_jhaNP9z5VpMA
+Verveine Cafe,Cambridge,MA,298 Massachusetts Ave,02139,42.362221,-71.098786,4.3,122,"Cafes, Bakeries",$$,Dj2AaWdxgYSfOjLVN9cfpg
+Kyo Matcha,Brookline,MA,1010 Beacon St,02446,42.34637,-71.10741,4.3,167,"Desserts, Ice Cream & Frozen Yogurt, Bakeries",$$,k3CWzSlLz_i23QFIBraxRg
+Bao Bao Bakery & Cafe,Boston,MA,84 Harrison Ave,02111,42.3507896,-71.0612335,4.0,185,"Bakeries, Cafes",$,tmukRbz8JRL2KFrf-LDQUA
+Meet Fresh,Boston,MA,140 Brighton Ave,02134,42.35277,-71.13185,3.5,105,"Desserts, Bubble Tea, Shaved Ice",$$,g2yPWCp_1ijco4JJfLpIDg
+Taiyaki NYC - Boston,Boston,MA,119 Seaport Blvd,02210,42.351006,-71.0447803,4.1,744,"Ice Cream & Frozen Yogurt, Desserts, Japanese",$,_LUnyOwSpo8N5783rceT5Q
+Tatte Bakery,Boston,MA,201 Washington St,02108,42.35843744521548,-71.05815349167688,4.3,189,"Bakeries, Breakfast & Brunch, Cafes",$$,brOzmNDA4_3BehZ3d6c2GQ
+Futago Udon,Boston,MA,508 Park Dr,02215,42.34772,-71.10582,4.4,579,"Japanese, Noodles, Desserts",$$,9BmP5aQyuvbT-xwpcej1Yw
+Tatte Bakery & Cafe,Boston,MA,80 Boylston St,02116,42.35228307237511,-71.0647300611271,4.2,295,"Cafes, Bakeries, Breakfast & Brunch",$$,ji_ZCdR1hCXtN_8pA1eIEQ
+HoneyHoney Dessert Cafe,Malden,MA,466 Main St,02148,42.4274435,-71.0673632,3.9,176,"Desserts, Coffee & Tea, Asian Fusion",$,Z6DJLSczSg0ExxmQ8T0giA
+Mochinut,Boston,MA,83 Harrison Ave,02111,42.3509341,-71.06154986949777,3.9,7,"Donuts, Desserts, Hot Dogs",N/A,N2cOUKKA_SvpyqAO7GBf4A
+Pixlcat Coffee & Butter Mochi,Boston,MA,32 Cambridge St,02129,42.38359,-71.07435,3.5,2,"Cafes, Coffee & Tea, Desserts",N/A,YP8VZhU_YQx-mEFAAPoMbQ
+Maprang Bakery & Cafe,Somerville,MA,51 Union Square,02143,42.38002,-71.09605,4.8,115,"Desserts, Cafes, Cupcakes",$,h6q2Soi32B58pfisFZJq_A
+OneZo,Cambridge,MA,1792 Massachusetts Ave,02140,42.38597,-71.11962,3.3,30,"Bubble Tea, Desserts",N/A,o1PqQLZ4f2zKN3i3NcgH7A
+Mango Mango Dessert-Quincy,Quincy,MA,13 Beale St,02170,42.26766958795646,-71.0168343,3.7,97,"Desserts, Hong Kong Style Cafe, Juice Bars & Smoothies",N/A,zFczuTwTCSk5IHR0H7phQA
+Nine Winters Bakery,Cambridge,MA,292 Concord Ave,02138,42.38371965035835,-71.1340227,4.8,14,"Bakeries, Desserts, Custom Cakes",N/A,fnRCzhh18J7hLPNfCQ4Klg
+Asaro Bakery & Cafe,Cambridge,MA,1629 Cambridge St,02138,42.374957,-71.109327,4.4,65,"Cafes, Bakeries, Sandwiches",N/A,rHKn2EcXBGoEO5kCaj9yog
+Sprout Mediterranean Inspired Salads,Boston,MA,305 Huntington Ave,02115,42.34129,-71.08738,4.5,28,"Salad, Wraps, Desserts",N/A,Io352sOSQXbRr-JGB3tiJg
+Japonaise Bakery and Cafe,Brookline,MA,1020 Beacon St,02446,42.34621178672958,-71.10780599033302,4.3,584,"Bakeries, Cafes, Japanese",$,6q9Cse0udgAqWeZnpd54uw
+Tatte Bakery & Cafe,Boston,MA,160 Massachusetts Ave,02115,42.3460775709624,-71.086823773419,4.2,103,"Cafes, Bakeries",$$,BruAH-ErE2dGQbGZDqKxuw
+Tous Les Jours,Quincy,MA,48 Billings Rd,02171,42.273894,-71.025038,3.9,44,"Bakeries, Coffee & Tea, Desserts",N/A,QcgR7o3S6vPD2P2qi9aZjg
+Vester,Cambridge,MA,73 Ames St,02142,42.3632039434025,-71.0882648321178,4.0,139,Cafes,$,MKdL3zHlpqgTUg-UjonEaw
+"Levain Bakery - Back Bay, Boston",Boston,MA,180 Newbury St,02116,42.3502143,-71.07927197054578,4.4,366,"Bakeries, Desserts",$$,rVKsy2dc2gMKYBa3N_YjfQ
+Tous Les Jours,Quincy,MA,101 Falls Blvd,02169,42.238094,-70.983836,3.8,10,"Desserts, Bakeries, Coffee & Tea",N/A,nHMwGQj5wmmE7G6lRAD9TQ
+Peipei's Bakery & Mister monut,Waltham,MA,873 Main St,02451,42.3763953393745,-71.24603146442408,4.6,9,"Cafes, Bakeries, Coffee & Tea",N/A,uH4mFY4F5z94GU_wGDlm2Q
+Bistro du Midi,Boston,MA,272 Boylston St,02116,42.351981434352,-71.069533707682,4.0,838,"French, Bars, Desserts",$$$,l45r09qD9iIkQn9KoKKfuw
+Tatte Bakery & Cafe,Boston,MA,1352 Boylston St,02215,42.343774922118754,-71.09973684553569,4.1,239,"Bakeries, Cafes",$$,wV1jn1hRVkKClxstWDXAyQ
+Tatte Bakery & Cafe,Boston,MA,345 Harrison Ave,02118,42.3452369,-71.06399993838704,4.0,113,"Bakeries, Cafes, Breakfast & Brunch",$$,LaAma3B0ScryCfYk9AlYag
+Tatte Bakery & Cafe,Brookline,MA,1003 Beacon St,02446,42.3457847,-71.1070339,4.0,684,"Bakeries, Cafes, Breakfast & Brunch",$$,O38NUkw0yQZxtwjgS-acgQ
+Bubble Nation,Arlington,MA,456A Massachusetts Ave,02474,42.414767303829,-71.1516868063141,4.3,83,"Bubble Tea, Coffee & Tea, Desserts",$$,cCHCD5LutCS5QRTNQlMDXg
+Tatte Bakery & Cafe,Boston,MA,369 Huntington Ave,02115,42.34002954274759,-71.09050656467997,3.7,119,"Cafes, Bakeries, Breakfast & Brunch",$$,zOOiBmo7mrXi7AR4N7Xswg
+Honeycomb Creamery,Cambridge,MA,1702 Massachusetts Ave,02138,42.3832,-71.11985,4.1,474,"Desserts, Ice Cream & Frozen Yogurt, Custom Cakes",$$,fvuXHSkSE00DglB2-qHt5w
+L.A. Burdick Handmade Chocolates,Cambridge,MA,52 Brattle St,02138,42.3743982641576,-71.1220407687697,4.3,1229,"Chocolatiers & Shops, Desserts, Tea Rooms",$$,gctbL0lDIYIHM6yDn99V-g
+Time Out Market Boston,Boston,MA,401 Park Dr,02215,42.34469474399352,-71.10273234110784,3.4,488,"Cocktail Bars, Desserts, New American",$$,wFSkfP9aE_F99p-K00JA4w
+Amba,Cambridge,MA,57-59 First St,02141,42.369053,-71.077939,4.6,52,"Cafes, Breakfast & Brunch, Sandwiches",N/A,pKjfVPHOxyBQlb-PCzVfow
+Tatte Bakery & Cafe,Boston,MA,70 Charles St,02114,42.357908990282375,-71.07054983265525,4.0,734,"Cafes, Bakeries, Breakfast & Brunch",$$,O4YoPGlWaGGnBE-5EHUweg
+Solid Ground Cafe,Boston,MA,742 Huntington Ave,02115,42.33367,-71.10544,4.6,141,"Coffee & Tea, Cafes, Sandwiches",N/A,VYM2c321AdMmpMI1DCRZIA
+Sweet Heart,Belmont,MA,386 Trapelo Rd,02478,42.38568,-71.18494,4.0,29,"Cafes, Bubble Tea, Ice Cream & Frozen Yogurt",N/A,tiYqu1I671KdSRljLpxBXg
+Tous Les Jours,Malden,MA,230 Pleasant St,02148,42.4271545,-71.074123,4.2,72,"Coffee & Tea, Bakeries, Desserts",$$,lINhKzX_xUQ5hmq1aplQ-Q
+Tatte Bakery & Cafe,Cambridge,MA,318 Third St,02142,42.3649239116026,-71.082667568791,3.9,722,"Cafes, Breakfast & Brunch, Sandwiches",$$,a8ZLRx-NyaT1RtcykR2DCA
+Tous Les Jours,Allston,MA,152 Harvard Ave,02134,42.3517628,-71.1315210521496,4.1,200,"Bakeries, Coffee & Tea, Desserts",$$,dxvwfiyFEt42ODIzPGVXCA
+Tatte Bakery & Cafe,Cambridge,MA,210 Jacobs St,02141,42.372429118888576,-71.07509,4.0,67,"Breakfast & Brunch, Cafes, Coffee & Tea",N/A,L98qOOAb4EYp_kzmV5GAVw
+Whiskful,Somerville,MA,,02145,42.39136,-71.0895,5.0,28,"Bakeries, Custom Cakes, Desserts",N/A,jLELBqfuatq9mtLswmA8qw
+Mochinut & OneZo,Quincy,MA,19 Billings Rd,02171,42.2730140401812,-71.0259411111474,3.6,137,"Bubble Tea, Desserts, Donuts",$$,mrXJWyB5ZneRfzgBprctVQ
+Tatte Bakery & Cafe,Lexington,MA,1777 Massachusetts Ave,02420,42.447865,-71.22763,3.4,30,"Breakfast & Brunch, Bakeries, Cafes",N/A,dW5gsl5KYg6R5SDdK0U6gQ
+Catalyst Restaurant,Cambridge,MA,300 Technology Sq,02139,42.3631270368804,-71.0917502740184,3.6,414,"New American, Desserts, Breakfast & Brunch",$$$,2WXwWfhpfia7_UflDYnUyQ
